@@ -19,3 +19,7 @@
 ## 发布
 
 经所有者授权，宣传站源码公开，使用 GitHub Pages 从 main 分支根目录发布。地址：https://everflora.github.io/MeiKe-site/ 。梅课主工程仍独立保持私有。发布文件仅 `index.html`、`style.css`、`app.js`、`config.js` 和 `assets/`；不包含主工程、账户或服务器凭据。
+
+## 当前 Android 安装包
+
+版本 1.6.5（构建 25），Android 7.0 及以上，24,256,309 字节，托管在本仓库的 Release `android-v1.6.5`。SHA-256：`392a89e9f88763ac7a36f1c0e56f645ce2d4365dad3c0dddbe6bca1f233bb058`。APK 不放入源码 Git 历史。

@@ -1,2 +1,2 @@
-// APK 通过测试后填写 HTTPS 下载链接；保持 null 时不会出现可点击的下载按钮。
-window.MEIKE_CONFIG = Object.freeze({webAppUrl:'https://everflora.github.io/MeiKe-web/',android:{url:null,version:null,size:null,releaseNotesUrl:null}});
+// Android 发布信息；后续更新安装包只需替换本配置及对应 Release。
+window.MEIKE_CONFIG = Object.freeze({webAppUrl:'https://everflora.github.io/MeiKe-web/',android:{url:'https://github.com/Everflora/MeiKe-site/releases/download/android-v1.6.5/MeiKe-1.6.5-11e915c-release.apk',version:'1.6.5',size:'23.1 MB',minAndroid:'Android 7.0 及以上',releaseNotesUrl:'https://github.com/Everflora/MeiKe-site/releases/tag/android-v1.6.5'}});

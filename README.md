@@ -23,3 +23,7 @@
 ## 当前 Android 安装包
 
 版本 1.6.5（构建 25），Android 7.0 及以上，24,256,309 字节，托管在本仓库的 Release `android-v1.6.5`。SHA-256：`392a89e9f88763ac7a36f1c0e56f645ce2d4365dad3c0dddbe6bca1f233bb058`。APK 不放入源码 Git 历史。
+
+## 实机展示与校园功能
+
+首页课表采用团队提供的原始实机图，并展示整周课表、劳动教育、素质讲座三张截图（`assets/app-timetable.jpg`、`assets/app-campus.jpg`、`assets/app-lectures.jpg`），可点击放大。主题切换仅改变下方标注的示意卡片，不会给真实截图换色。校园宣传点包括本周讲座、教务通知、劳动教育和校历，同时说明部分功能需学校账号及不同平台开放差异。导航栏和页脚的 GitHub 入口指向公开组织主页 https://github.com/Everflora ，避免让普通访客进入私有主工程的 404 页面。
